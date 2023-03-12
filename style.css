@@ -401,7 +401,7 @@
     right: 167px;
     width: 632px;
     height: 593px;
-    background-image: url("/images/hero-image.png");
+    background-image: url("images/hero-image.png");
 }
 
 @media (max-width: 1256px) {
@@ -412,7 +412,7 @@
         right: 29px;
         width: 340px;
         height: 358px;
-        background-image: url("/images/hero-image-768.png");
+        background-image: url("images/hero-image-768.png");
         background-repeat: no-repeat;
     }
 }
@@ -549,17 +549,17 @@
 }
 
 .about__icon-1 {
-    background-image: url(/images/about-eye.svg);
+    background-image: url(images/about-eye.svg);
     background-repeat: no-repeat;
 }
 
 .about__icon-2 {
-    background-image: url(/images/about-fingers.svg);
+    background-image: url(images/about-fingers.svg);
     background-repeat: no-repeat;
 }
 
 .about__icon-3 {
-    background-image: url(/images/about-bullhorn.svg);
+    background-image: url(images/about-bullhorn.svg);
     background-repeat: no-repeat;
     margin-left: -1px;
 }
@@ -976,7 +976,7 @@
     z-index: 1;
     width: 24px;
     height: 24px;
-    background-image: url(/images/mdi_access_time.svg);
+    background-image: url(images/mdi_access_time.svg);
 }
 
 .courses__list {
