@@ -23,7 +23,7 @@
     max-width: 1440px;
     margin: 0 auto;
     font-family: "Roboto";
-    background-color: aliceblue;
+    background-color: white;
 }
 
 .header {
@@ -331,7 +331,7 @@
 }
 
 .hero {
-    background-image: url(images/hero-background.jpg);
+    background-image: url("images/hero-background.jpg");
     background-repeat: no-repeat;
     max-width: 1440px;
     height: 620px;
